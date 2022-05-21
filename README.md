@@ -1,6 +1,11 @@
 ### Hi there, I'm Alexandre 👋
 
-Computer science student at @epita.
+Computer science student at @epita in Rennes France.
+
+### Contact
+```
+alexandre.josien@gmail.com
+```
 
 <!--
 **Alex375/Alex375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
