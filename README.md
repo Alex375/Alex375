@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandre 👋
 
-- 🎓 I'm a third year computer science and engineering student at EPITA in Rennes France🇫🇷.
-- 💻 Looking for a technical internship for setptember 2022.
+- 🎓 I'm a third year computer science and engineering student at __EPITA__ in Rennes France🇫🇷.
+- 💻 Looking for a technical internship for september 2022.
 
 ### Contact
 ```
