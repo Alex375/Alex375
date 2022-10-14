@@ -1,8 +1,7 @@
 ### Hi there, I'm Alexandre 👋
 
  - 🎓 I'm a fourth year computer science and engineering student at __EPITA__ in Paris France🇫🇷.
- -  Computer science intern at DXOMark
- - 💻 Looking for a technical internship for september 2022.
+ - 💻 Computer science intern at DXOMark
 
  ### Contact
  ```
