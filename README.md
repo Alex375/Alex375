@@ -1,7 +1,6 @@
 ### Hi there, I'm Alexandre 👋
 
- - 🎓 I'm a fourth year computer science and engineering student at __EPITA__ in Paris France🇫🇷.
- - 💻 Computer science intern at DXOMark
+ - 🎓 I'm a fourth year computer science and engineering student in health care departement at __EPITA__ in Paris France🇫🇷.
 
  ### Contact
  ```
