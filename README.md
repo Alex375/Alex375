@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre 👋
 
- - 🎓 I'm a fourth year computer science and engineering student in health care departement at (__EPITA__)[https://www.epita.fr/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-sante] in Paris France🇫🇷.
+ - 🎓 I'm a fourth year computer science and engineering student in health care departement at [__EPITA__](https://www.epita.fr/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-sante) in Paris France🇫🇷.
 
  ### Contact
  ```
