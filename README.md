@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre 👋
 
- - 💻 Computer engineer specialized in image and video processing, passionate about computational photography and video. Particularly interested in HDR technologies and their potential to enhance
+ - 💻 Computer science engineer specialized in image and video processing, passionate about computational photography and video. Particularly interested in HDR technologies and their potential to enhance
 visual quality. Eager to combine technical expertise and visual creativity to improve camera algorithms and
 drive innovation in imaging.
 - 📍France 🇫🇷
