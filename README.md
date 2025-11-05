@@ -1,6 +1,11 @@
 ### Hi there, I'm Alexandre 👋
 
- - 🎓 I'm a fourth year computer science and engineering student in health care departement at [__EPITA__](https://www.epita.fr/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-sante) in Paris France🇫🇷.
+ - 💻 Computer engineer specialized in image and video processing, passionate about computational photography and video. Particularly interested in HDR technologies and their potential to enhance
+visual quality. Eager to combine technical expertise and visual creativity to improve camera algorithms and
+drive innovation in imaging.
+- 📍France 🇫🇷
+- 📷 [Flickr](https://www.flickr.com/photos/202375486@N04/)
+- 🗂️ [Portfolio](https://alex375.github.io)
 
  ### Contact
  ```
