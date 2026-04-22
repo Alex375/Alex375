@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/alexandre-josien"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:alexandre.josien@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://landing-page-collectif-production.up.railway.app"><img src="https://img.shields.io/badge/Compass_Consulting-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Compass Consulting" /></a>
-  <a href="https://tosse-showcase-production.up.railway.app"><img src="https://img.shields.io/badge/TOSSE_CRM-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="TOSSE" /></a>
+  <a href="https://landing-page-collectif-production.up.railway.app"><img src="https://img.shields.io/badge/Collective-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Freelance collective" /></a>
 </p>
 
 ---
@@ -18,8 +17,7 @@ Based in France. EPITA grad (AI & Health). Previously image-processing at GoPro 
 
 ### Currently
 
-- Co-running **[Compass Consulting](https://landing-page-collectif-production.up.railway.app)** &mdash; a collective of three independent AI engineers. We take end-to-end missions and deliver fast.
-- Building **[TOSSE](https://tosse-showcase-production.up.railway.app)** &mdash; an internal CRM with a native MCP server. Claude Code drives the whole workflow: context cascade, tasks, deployments. Dogfooded daily on every client project.
+Freelance engineer &mdash; consulting, AI, and software development. Part of a [freelance collective](https://landing-page-collectif-production.up.railway.app) with two other independent engineers.
 
 ### Selected freelance work
 
@@ -37,6 +35,20 @@ Based in France. EPITA grad (AI & Health). Previously image-processing at GoPro 
     <td>Voice-control layer for a healthcare software used by practitioners &mdash; speech recognition, intent, and integration into a complex existing codebase.</td>
   </tr>
 </table>
+
+### Things I've built
+
+- **[TOSSE](https://tosse-showcase-production.up.railway.app)** &mdash; a CRM with a native MCP server that lets Claude Code drive the whole workflow: context cascade across client/mission/project/repo, task pickup, deployments. Built for my own freelance work, dogfooded daily on every client project.
+
+### Contact
+
+```
+alexandre.josien@gmail.com
+```
+
+Open to freelance missions &mdash; AI, full-stack, technical leadership. Prefer remote, happy to come on-site when it's the right call.
+
+---
 
 ### Stack
 
@@ -57,17 +69,7 @@ Based in France. EPITA grad (AI & Health). Previously image-processing at GoPro 
 **Architecture &amp; delivery:** end-to-end ownership &middot; code reviews &middot; testing &middot; CI/CD &middot; cloud deployment
 **AI (bonus):** LLMs &amp; NLP &middot; computer vision &middot; shipping AI into business apps
 
-### GitHub
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Alex375&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex375&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" />
 </p>
-
-### Contact
-
-```
-alexandre.josien@gmail.com
-```
-
-Open to freelance missions &mdash; IA, full-stack, technical leadership. Prefer remote, happy to come on-site when it's the right call.
